@@ -27,9 +27,11 @@ Is there a relationship between energy, danceability, and popularity?
 How do musical characteristics vary between genres?
 
 ## Key Insights
-<img width="480" height="308" alt="Screenshot 2026-07-20 at 21 49 00" src="https://github.com/user-attachments/assets/1e48a280-18a4-4614-8e01-6d28209ec187" />
-<img width="655" height="219" alt="Screenshot 2026-07-20 at 21 51 26" src="https://github.com/user-attachments/assets/6769e89d-7229-4227-9549-54b7ce249602" />
-<img width="478" height="480" alt="Screenshot 2026-07-20 at 21 50 24" src="https://github.com/user-attachments/assets/8adb27ad-9b2d-4d4b-9ad8-4773fe10bff4" />
+<img width="655" height="219" alt="Screenshot 2026-07-20 at 21 51 26" src="https://github.com/user-attachments/assets/0edaa91c-2847-4667-b7e1-ecce9be4b0a7" />
+<img width="480" height="308" alt="Screenshot 2026-07-20 at 21 49 00" src="https://github.com/user-attachments/assets/40080eec-1fba-4a39-a63d-4b368e1f1ecc" />
+<img width="478" height="480" alt="Screenshot 2026-07-20 at 21 50 24" src="https://github.com/user-attachments/assets/5df6481c-6e51-4dbf-8ec3-2b8aa6891204" />
+
+
 
 - Pop, Rap and Rock are Top 3 Genres by popularity
 - The more danceable a song is the more popular it is
