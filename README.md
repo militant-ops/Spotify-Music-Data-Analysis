@@ -28,6 +28,8 @@ How do musical characteristics vary between genres?
 
 ## 📊 Data Cleaning
 
+Cleaned the data to remove all nulls and empty fields, and any duplicates too.
+
 
 ## 💡 Key Insights
 <img width="655" height="219" alt="Screenshot 2026-07-20 at 21 51 26" src="https://github.com/user-attachments/assets/0edaa91c-2847-4667-b7e1-ecce9be4b0a7" />
@@ -52,3 +54,11 @@ Identify patterns and trends
 Create clear and informative visualizations
 Translate data into actionable insights
 Present analytical findings in a business-focused way
+
+## 🚀 Future Improvements
+Potential improvements to this project include:
+- Conducting deeper statistical analysis to investigate relationships between audio features and track popularity
+- Exploring how music trends and audio characteristics have changed over time
+- Developing interactive dashboards that allow users to filter and explore the data
+- Using Python and SQL to perform more advanced data cleaning and analysis
+
