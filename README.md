@@ -26,12 +26,21 @@ What audio features are most common among popular tracks?
 Is there a relationship between energy, danceability, and popularity?
 How do musical characteristics vary between genres?
 
+## 📊 Data Cleaning
+
+
 ## 💡 Key Insights
 <img width="655" height="219" alt="Screenshot 2026-07-20 at 21 51 26" src="https://github.com/user-attachments/assets/0edaa91c-2847-4667-b7e1-ecce9be4b0a7" />
+
+This Chart shows who the top 10 artists are.
+
 <img width="480" height="308" alt="Screenshot 2026-07-20 at 21 49 00" src="https://github.com/user-attachments/assets/40080eec-1fba-4a39-a63d-4b368e1f1ecc" />
+
+This Chart shows which genre is the most popular.
+
 <img width="478" height="480" alt="Screenshot 2026-07-20 at 21 50 24" src="https://github.com/user-attachments/assets/5df6481c-6e51-4dbf-8ec3-2b8aa6891204" />
 
-
+This Chart shows the relationship between danceability and popularity, it shows a positive correlation adn you can see the more danceable a song is the more popular it is.
 
 - Pop, Rap and Rock are Top 3 Genres by popularity
 - The more danceable a song is the more popular it is
