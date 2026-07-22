@@ -42,10 +42,6 @@ This Chart shows which genre is the most popular.
 
 This Chart shows the relationship between danceability and popularity, it shows a positive correlation adn you can see the more danceable a song is the more popular it is.
 
-- Pop, Rap and Rock are Top 3 Genres by popularity
-- The more danceable a song is the more popular it is
-- Top 3 artists are Drake, Chris Brown and Nobuo Uematsu
-
 ## 📂 Dataset
 The dataset contains information about Spotify tracks, including audio characteristics, genres, and popularity metrics.
 
