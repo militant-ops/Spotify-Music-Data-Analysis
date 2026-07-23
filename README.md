@@ -1,17 +1,17 @@
 # Spotify Music Data Analysis
 
-## 📌 Overview
+## Overview
 This project explores a large dataset of Spotify tracks to identify trends and relationships between music characteristics and track popularity.
 The analysis focuses on audio features such as danceability, energy, acousticness, instrumentalness, valence, tempo, loudness, and popularity.
 
-## 🎯 Objectives
+## Objectives
 I Identied trends in Spotify track popularity,
 Analyzed the relationship between audio features and popularity,
 Compared characteristics across different genres,
 Created visualizations to communicate key findings,
 Identified insights that could support future music-related projects and decisions
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 Tableau
 Data Visualization
 Exploratory Data Analysis
@@ -19,19 +19,19 @@ Trend Analysis
 Business Intelligence
 Data Storytelling
 
-## 📊 Key Analysis
+## Key Analysis
 The project investigates questions such as:
 Which genres have the highest average popularity?
 What audio features are most common among popular tracks?
 Is there a relationship between energy, danceability, and popularity?
 How do musical characteristics vary between genres?
 
-## 📊 Data Cleaning
+## Data Cleaning
 
 Cleaned the data to remove all nulls and empty fields, and any duplicates too.
 
 
-## 💡 Key Insights
+## Key Insights
 <img width="655" height="219" alt="Screenshot 2026-07-20 at 21 51 26" src="https://github.com/user-attachments/assets/0edaa91c-2847-4667-b7e1-ecce9be4b0a7" />
 
 This Chart shows who the top 10 artists are.
@@ -44,10 +44,10 @@ This Chart shows which genre is the most popular.
 
 This Chart shows the relationship between danceability and popularity, it shows a positive correlation adn you can see the more danceable a song is the more popular it is.
 
-## 📂 Dataset
+## Dataset
 The dataset contains information about Spotify tracks, including audio characteristics, genres, and popularity metrics.
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 This project demonstrates my ability to:
 Work with large datasets
 Identify patterns and trends
@@ -55,7 +55,7 @@ Create clear and informative visualizations
 Translate data into actionable insights
 Present analytical findings in a business-focused way
 
-## 🚀 Future Improvements
+## Future Improvements
 Potential improvements to this project include:
 - Conducting deeper statistical analysis to investigate relationships between audio features and track popularity
 - Exploring how music trends and audio characteristics have changed over time
